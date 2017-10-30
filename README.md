@@ -1,0 +1,2 @@
+# GameCollect
+Gathering funny games
